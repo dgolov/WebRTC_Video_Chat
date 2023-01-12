@@ -1,0 +1,13 @@
+conf/
+env/
+.env.db
+.env
+.env.dev
+.env.prod
+media/*
+db.sqlite3
+.idea
+__pycache__/*
+*.log
+*.pot
+*.pyc
